@@ -1,2 +1,2 @@
 # Verhaaltje
-Een simpele python script die tekstbestanden samenvoegt en laat zien.
+Een simpel python script dat tekstbestanden samenvoegt en laat zien.
